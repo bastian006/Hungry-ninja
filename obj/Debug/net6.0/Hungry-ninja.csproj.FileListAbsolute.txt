@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\bin\Debug\net6.0\Hungry-ninja.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\bin\Debug\net6.0\Hungry-ninja.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\bin\Debug\net6.0\Hungry-ninja.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\bin\Debug\net6.0\Hungry-ninja.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\bin\Debug\net6.0\Hungry-ninja.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\refint\Hungry-ninja.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\Hungry-ninja.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hungry-ninja\obj\Debug\net6.0\ref\Hungry-ninja.dll
